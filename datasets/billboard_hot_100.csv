@@ -1,0 +1,101 @@
+chart_pos,track_name,artist_name,lastweek_pos,peak_pos,wks_on_chart,status
+1,Butter,BTS,1,1,2,no-change
+2,Good 4 U,Olivia Rodrigo,2,1,3,no-change
+3,Levitating,Dua Lipa,4,2,35,no-change
+4,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),5,1,13,no-change
+5,Save Your Tears,The Weeknd & Ariana Grande,7,1,25,no-change
+6,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,6,1,11,no-change
+7,Kiss Me More,Doja Cat Featuring SZA,8,5,8,no-change
+8,Deja Vu,Olivia Rodrigo,3,3,9,no-change
+9,Astronaut In The Ocean,Masked Wolf,10,6,16,no-change
+10,Montero (Call Me By Your Name),Lil Nas X,13,1,10,no-change
+11,Without You,The Kid LAROI,16,8,26,no-change
+12,Traitor,Olivia Rodrigo,9,9,2,no-change
+13,Drivers License,Olivia Rodrigo,11,1,21,no-change
+14,Rapstar,Polo G,17,1,8,no-change
+15,Forever After All,Luke Combs,20,2,32,no-change
+16,Favorite Crime,Olivia Rodrigo,18,16,2,no-change
+17,Blinding Lights,The Weeknd,22,1,78,no-change
+18,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,23,18,13,no-change
+19,Brutal,Olivia Rodrigo,12,12,2,no-change
+20,Happier,Olivia Rodrigo,15,15,2,no-change
+21,Calling My Phone,Lil Tjay Featuring 6LACK,25,3,16,no-change
+22,Best Friend,Saweetie Featuring Doja Cat,27,14,21,no-change
+23,Heartbreak Anniversary,Giveon,30,17,16,no-change
+24,Up,Cardi B,28,1,17,no-change
+25,Heat Waves,Glass Animals,37,25,20,no-change
+26,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,34,20,5,no-change
+27,Enough For You,Olivia Rodrigo,14,14,2,no-change
+28,my.life,"J. Cole, 21 Savage & Morray",21,2,3,no-change
+29,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,31,12,20,no-change
+30,Mood,24kGoldn Featuring iann dior,35,1,43,no-change
+31,My Ex's Best Friend,Machine Gun Kelly X blackbear,39,20,42,no-change
+32,Track Star,Mooski,32,31,15,no-change
+33,Wockesha,Moneybagg Yo,36,33,6,no-change
+34,Telepatia,Kali Uchis,44,34,15,no-change
+35,Back In Blood,Pooh Shiesty Featuring Lil Durk,38,13,22,no-change
+36,Gone,Dierks Bentley,55,36,12,no-change
+37,pov,Ariana Grande,45,37,13,no-change
+38,"1 Step Forward, 3 Steps Back",Olivia Rodrigo,19,19,2,no-change
+39,Wants And Needs,Drake Featuring Lil Baby,46,2,13,no-change
+40,The Good Ones,Gabby Barrett,42,19,23,no-change
+41,What You Know Bout Love,Pop Smoke,43,9,39,no-change
+42,"Jealousy, Jealousy",Olivia Rodrigo,24,24,2,no-change
+43,Famous Friends,Chris Young + Kane Brown,52,43,10,no-change
+44,Hell Of A View,Eric Church,40,28,21,no-change
+45,pride.is.the.devil,J. Cole & Lil Baby,26,7,3,no-change
+46,On Me,Lil Baby,49,15,26,no-change
+47,Settling Down,Miranda Lambert,57,47,12,no-change
+48,Time Today,Moneybagg Yo,53,31,17,no-change
+49,Breaking Up Was Easy In The 90's,Sam Hunt,47,32,14,no-change
+50,Nobody,Dylan Scott,50,50,14,no-change
+51,Almost Maybes,Jordan Davis,56,51,19,no-change
+52,Hope Ur OK,Olivia Rodrigo,29,29,2,no-change
+53,Lil Bit,Nelly & Florida Georgia Line,62,53,11,no-change
+54,We're Good,Dua Lipa,54,31,16,no-change
+55,Ski,Young Thug & Gunna,64,18,7,no-change
+56,Build A Bitch,Bella Poarch,58,56,3,no-change
+57,Made For You,Jake Owen,65,32,15,no-change
+58,Miss The Rage,Trippie Redd & Playboi Carti,63,11,4,no-change
+59,No More Parties,Coi Leray Featuring Lil Durk,61,26,17,no-change
+60,Your Power,Billie Eilish,60,10,5,no-change
+61,Gang Gang,Polo G & Lil Wayne,33,33,2,no-change
+62,Killer,Eminem Featuring Jack Harlow & Cordae,-,62,1,new
+63,Blame It On You,Jason Aldean,76,63,6,no-change
+64,Tell Em,Cochise & $NOT,-,64,1,new
+65,amari,J. Cole,41,5,3,no-change
+66,Todo de Ti,Rauw Alejandro,-,66,1,new
+67,Seeing Green,"Nicki Minaj, Drake & Lil Wayne",48,12,3,no-change
+68,Glad You Exist,Dan + Shay,75,63,17,no-change
+69,Minimum Wage,Blake Shelton,70,69,4,no-change
+70,Single Saturday Night,Cole Swindell,78,70,5,no-change
+71,One Too Many,Keith Urban Duet With P!nk,74,62,25,no-change
+72,Leave Before You Love Me,Marshmello X Jonas Brothers,85,72,2,no-change
+73,Quicksand,Morray,77,65,17,no-change
+74,4 Da Gang,42 Dugg & Roddy Ricch,67,67,9,no-change
+75,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,-,75,1,new
+76,What's Next,Drake,73,1,13,no-change
+77,Way Less Sad,AJR,94,77,6,no-change
+78,Straightenin,Migos,69,38,3,no-change
+79,Tombstone,Rod Wave,82,11,11,no-change
+80,Maybach,42 Dugg Featuring Future,68,68,2,no-change
+81,Voice Of The Heroes,Lil Baby & Lil Durk,-,81,1,new
+82,Twerkulator,City Girls,51,51,2,no-change
+83,Goosebumps,Travis Scott & HVME,84,47,20,no-change
+84,Solid,Young Thug & Gunna Featuring Drake,81,12,7,no-change
+85,Arcade,Duncan Laurence,88,78,8,no-change
+86,Follow You,Imagine Dragons,89,68,9,no-change
+87,Chasing After You,Ryan Hurd With Maren Morris,90,87,6,no-change
+88,Hello,Pop Smoke Featuring A Boogie Wit da Hoodie,93,83,11,no-change
+89,Country Again,Thomas Rhett,96,73,5,no-change
+90,Pick Up Your Feelings,Jazmine Sullivan,91,75,19,no-change
+91,The Business,Tiesto,-,69,14,re-entry
+92,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,-,79,6,re-entry
+93,Things A Man Oughta Know,Lainey Wilson,100,93,3,no-change
+94,95.south,J. Cole,59,8,3,no-change
+95,Drankin N Smokin,Future & Lil Uzi Vert,95,31,18,no-change
+96,All I Know So Far,P!nk,87,74,3,no-change
+97,Hold On,Justin Bieber,86,20,13,no-change
+98,Wasted On You,Morgan Wallen,98,9,19,no-change
+99,Outside,MO3 X OG Bobby Billions,-,99,1,new
+100,Botella Tras Botella,Gera MX + Christian Nodal,-,60,4,re-entry
