@@ -69,8 +69,8 @@ def scrape_billboard(url, N):
 Scrape the song information from the hot 100 list through the Spotify API
 '''
 def scrape_spotify(billboard_data, N):
-    client_id = '4b40a6c88b6a4c45b6116f04c01fc55d'
-    secret = '2224cdce4f954277880098f7920832f7'
+    client_id = # enter client id
+    secret = #enter secret
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=secret) 
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
     columns = ['track_id','track_name','artist_name','duration','release_date','popularity','danceability',
